@@ -1,0 +1,40 @@
+3
+Tate;3
+House;3
+The Function;Ship Wrek
+Dress Code;Mau P
+Losing It;FISHER
+Pop;3
+One Dance;Drake
+DJ Got Us Fallin' In Love;USHER
+We Found Love;Rihanna
+Rap;3
+Stronger;Kanye West
+Already Rich;Yeat
+Location;PlayBoi Carti
+Peter;3
+House;3
+The Function;Ship Wrek
+Dress Code;Mau P
+Losing It;FISHER
+Pop;3
+One Dance;Drake
+DJ Got Us Fallin' In Love;USHER
+We Found Love;Rihanna
+Rap;3
+Stronger;Kanye West
+Already Rich;Yeat
+Location;PlayBoi Carti
+Dylan;3
+House;3
+The Function;Ship Wrek
+Dress Code;Mau P
+Losing It;FISHER
+Pop;3
+One Dance;Drake
+DJ Got Us Fallin' In Love;USHER
+We Found Love;Rihanna
+Rap;3
+Stronger;Kanye West
+Already Rich;Yeat
+Location;PlayBoi Carti
