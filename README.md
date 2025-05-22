@@ -29,5 +29,6 @@ char message[3];
 zmq_recv(requester, message, 3, 0);
 ```
 
-## UML Diagram
+## UML Sequence Diagram
 
+![Sequence Diagram](duplicate_song_SD.png)
